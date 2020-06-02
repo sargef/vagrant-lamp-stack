@@ -3,6 +3,7 @@
 <p align="center">
  <img width="250px" src="https://github.com/sargef/vagrant-lamp-stack-php/blob/master/vagrant.png">
 <img width="350px" src="https://fizzbuzz3.s3-eu-west-1.amazonaws.com/php_300.png">
+ <img width="850px" src="https://github.com/sargef/vagrant-lamp-stack-php/blob/master/lamp.jpeg">
   </p>
   </br>
 
