@@ -4,6 +4,7 @@
  <img width="250px" src="https://github.com/sargef/vagrant-lamp-stack-php/blob/master/vagrant.png">
 <img width="350px" src="https://fizzbuzz3.s3-eu-west-1.amazonaws.com/php_300.png">
   </p>
+  </br>
 
 <h2><b><p align="center">Initialize Vagrant box - ubuntu/bionic64</p></b></h2>
 <h5><b><p align="center">vagrant init ubuntu/bionic64</p></b></h5>
