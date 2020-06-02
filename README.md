@@ -7,7 +7,7 @@
   </br>
 
 <h2><b><p align="center">Initialize Vagrant box - ubuntu/bionic64</p></b></h2>
-<h5><b><p align="center">vagrant init ubuntu/bionic64</p></b></h5>
+<h5><b><p align="center">Download files</p></b></h5>
 <h5><b><p align="center">vagrant up</p></b></h5>
 <h5><b><p align="center">vagrant ssh</p></b></h5>
 </br>
