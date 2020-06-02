@@ -23,7 +23,10 @@
 <h5><b><p align="center">insert into posts(text) values('Test Test');</p></b></h5>
 <h5><b><p align="center">select * from posts;</p></b></h5>
 <h5><b><p align="center">quit</p></b></h5>
+```diff
 <h5><b><p align="center">exit</p></b></h5>
+```
+
 </br>
 
 <h2><b><p align="center">Test url: http://localhost:8765/</p></b></h2>
