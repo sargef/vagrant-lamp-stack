@@ -1,4 +1,4 @@
-<h1><b><p align="center">Vagrant Lamp Stack PHP</p></b></h1>
+<h1><b><p align="center">Vagrant Lamp Stack</p></b></h1>
 
 <p align="center">
  <img width="250px" src="https://github.com/sargef/vagrant-lamp-stack-php/blob/master/vagrant.png">
