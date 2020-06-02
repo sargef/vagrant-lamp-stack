@@ -2,6 +2,9 @@
 ##Create Mysql Database 
 <h1><b><p align="center">Vagrant Lamp Stack PHP</p></b></h1>
 </br>
+<p align="center">
+<img width="450px" src="https://fizzbuzz3.s3-eu-west-1.amazonaws.com/php_300.png">
+  </p>
 
 <h2><b><p align="center">Initialize Vagrant box - ubuntu/bionic64</p></b></h2>
 <h4><b><p align="center">vagrant init ubuntu/bionic64</p></b></h4>
